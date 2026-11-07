@@ -1,0 +1,9 @@
+{
+  "name": "elnemer70/tajweed-php-meem-sakinah-rules",
+  "description": "Meem Sakinah Labial Assimilation & Izhar Rule Engine (محرك أحكام الميم الساكنة: الإخفاء الشفوي والإدغام والإظهار)",
+  "type": "project",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.1"
+  }
+}
